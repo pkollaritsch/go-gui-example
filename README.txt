@@ -8,8 +8,6 @@ found at:  https://youtu.be/1smsqZUAYn4
 # download and install go language from: https://go.dev/dl/
 echo 'export PATH=$PATH:"/usr/local/go/bin"' >> ~/.bashrc
 
-go mod init test
-
 go get cogentcore.org/core
 go get cogentcore.org/core/core@upgrade
 go get cogentcore.org/core/events@upgrade
