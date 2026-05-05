@@ -1,4 +1,10 @@
-# This README has been tested on MacOS.
+Is there an open-source and free of fee GoLang GUI ready for production 
+Apps which still maintains the "write once, run anywhere" goal?
+A video explaining and demonstrating the example in this repo can be 
+found at:  https://youtu.be/1smsqZUAYn4
+
+
+########## This following has been tested on MacOS: ####################
 # download and install go language from: https://go.dev/dl/
 echo 'export PATH=$PATH:"/usr/local/go/bin"' >> ~/.bashrc
 
