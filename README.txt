@@ -1,3 +1,5 @@
+Topics:  golang, go, gui, cross-platform, tutorial, example-code, graphical-user-interface, cogent-core, ui
+
 Is there an open-source and free of fee GoLang GUI ready for production 
 Apps which still maintains the "write once, run anywhere" goal?
 A video explaining and demonstrating the example in this repo can be 
